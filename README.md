@@ -13,7 +13,7 @@
   
   # GitHub Stats
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonseob22&layout=compact&theme=algolia)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeHyeonseob&layout=compact&theme=algolia)
 
 
   

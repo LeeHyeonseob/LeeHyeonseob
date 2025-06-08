@@ -7,8 +7,8 @@
   # Tech Stacks
 
   ![Java](https://img.shields.io/badge/java-007396?style=flat&logo=coffeescript&logoColor=white) 
-  ![Spring]("https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white")
-  ![MySQL]("https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white")
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
   
   
   # GitHub Stats
